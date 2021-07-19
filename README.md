@@ -1,3 +1,7 @@
-# Create React App minimal setup
+# Tic Tac Toe
 
-This project was created with Create React App and a minimal setup custom template.
+[tic-tac-toe.paulina.tech](https://tic-tac-toe.paulina.tech)
+
+This is a Tic Tac Toe game written in `TypeScript` with `React` and `Sass`.
+
+![](demo.gif)
